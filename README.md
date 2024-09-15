@@ -1,5 +1,5 @@
 # leaflet-challenge
-1-Logo
+
 ### Description
 This project is a solution to the Module 15 Challenge, where the goal is to create visualizations for earthquake data provided by the United States Geological Survey (USGS). The visualizations help to educate the public and government organizations about natural hazards, ecosystem health, and the impacts of climate and land-use change.
 
